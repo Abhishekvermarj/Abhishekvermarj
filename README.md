@@ -46,16 +46,16 @@ From designing clean UIs to solving complex backend problems, I enjoy transformi
 
 ## 📊 GitHub Stats  
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErAbhi523&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErAbhi523&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErAbhi523&theme=tokyonight)  
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekvermarj&theme=tokyonight)  
 
 ---
 
 ## 📬 Let’s Connect  
 
 - 📧 Email: **abhishekverma.rjasv@gmail.com**  
-- 🌐 GitHub: [github.com/ErAbhi523](https://github.com/Abhishekvermarj)
+- 🌐 GitHub: [github.com/Abhishekvermarj](https://github.com/Abhishekvermarj)
 - 🌐 GitHub: [github.com/ErAbhi523](https://github.com/ErAbhi523) 
 
 ---
