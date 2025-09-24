@@ -10,18 +10,19 @@
 - ⚡ Fun fact: [Something unique about you]
 
 ---
-
+<!--
 📊 **GitHub Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 📈 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) -->
+
 
 ---
 
 🌐 **Connect with me**
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter/X](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/abhishekverma)
+- [Twitter/X](https://twitter.com/abhishekverma)
 - [Portfolio](https://yourwebsite.com)
 
 ---
