@@ -56,8 +56,7 @@ From designing clean UIs to solving complex backend problems, I enjoy transformi
 
 - 📧 Email: **abhishekverma.rjasv@gmail.com**  
 - 🌐 GitHub: [github.com/Abhishekvermarj](https://github.com/Abhishekvermarj)
-- 🌐 GitHub: [github.com/ErAbhi523](https://github.com/ErAbhi523)
-- 🌐 GitHub: [github.com/rajasvinfotech](https://github.com/rajasvinfotech) 
+
 
 ---
 
