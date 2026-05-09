@@ -1,65 +1,91 @@
-# 👋 Hey, I'm Abhishek Verma  
+<h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 
-🚀 **Assistant Engineer @ EduBuddy** | 💻 **Full-Stack Developer** | 🌱 **Tech Explorer & Entrepreneurial Mindset**  
+<h3 align="center">
+🚀 Assistant Engineer @ EduBuddy | 💻 Full-Stack Developer | 🌱 Tech Explorer
+</h3>
 
-I’m a **Computer Science Engineer** passionate about **building impactful digital solutions**.  
-From designing clean UIs to solving complex backend problems, I enjoy transforming ideas into scalable software.  
-
----
-
-## 🔍 About Me  
-
-- 🧩 Problem solver at heart  
-- 🖊️ Advocate of clean, maintainable, and secure code  
-- 🌍 Exploring technologies to create **safe & reliable digital ecosystems**  
-- ⚡ Currently leveling up my skills in **Flutter**, **ASP.NET**, and **Blazor**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekvermarj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 💻 Tech Stack  
+## 💫 About Me
 
-**Languages**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+I’m a **Computer Science Engineer** passionate about building **secure, scalable, and impactful digital solutions**.
 
-**Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)  
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+- 🔭 Currently working as **Assistant Engineer @ EduBuddy**
+- 🌱 Learning **Flutter, ASP.NET, and Blazor**
+- 💻 Interested in **Full-Stack Development, Mobile Apps, and Secure Systems**
+- 🧠 I enjoy solving problems and writing clean, maintainable code
+- 🤝 Open to collaboration on impactful software products
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠️ Tech Stack
 
-🔹 [Check out my repositories](https://github.com/Abhishekvermarj?tab=repositories) — I’m actively building exciting projects.  
-💡 Contributions, feedback, and suggestions are always welcome!  
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,js,python,c,html,css" />
+</p>
 
----
-
-## 📊 GitHub Stats  
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekvermarj&theme=tokyonight)  
-
----
-
-## 📬 Let’s Connect  
-
-- 📧 Email: **abhishekverma.rjasv@gmail.com**  
-- 🌐 GitHub: [github.com/Abhishekvermarj](https://github.com/Abhishekvermarj)
-
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,git,github,vscode,linux" />
+</p>
 
 ---
 
-### 🤝 Open to collaboration, learning, and building impactful products together.  
+## 🚀 Featured Work
 
-✨ Thanks for visiting my profile — let’s connect and create something amazing!  
+🔹 Check out my projects and repositories here:
+
+<p>
+  <a href="https://github.com/Abhishekvermarj?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+I’m actively building projects around:
+
+- Full-Stack Web Development  
+- Mobile App Development  
+- Secure Authentication Systems  
+- Utility & Productivity Tools  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekvermarj&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:abhishekverma.rjasv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Abhishekvermarj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Code is not just about solving problems — it’s about building experiences that matter.”</b>
+</p>
+
+<p align="center">
+  🤝 Open to collaboration, learning, and building impactful products together.
+</p>
