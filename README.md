@@ -1,15 +1,13 @@
 <div align="center">
 
-# Hi, I'm Abhishek Verma 👋
+Hi 👋, I'm Abhishek Verma
 
-### Assistant Engineer — Product Development at EduBuddy
-
-### Full-Stack Developer • .NET & Blazor Developer • Flutter Explorer
+Assistant Engineer @ EduBuddy • Full-Stack Developer • .NET & Blazor Developer
 
 <p>
-  I build secure, scalable and user-focused digital products using
-  <strong>C#</strong>, <strong>ASP.NET</strong>, <strong>Blazor</strong>,
-  <strong>Flutter</strong> and modern web technologies.
+I build secure, scalable and user-focused applications using
+<strong>C#</strong>, <strong>ASP.NET</strong>, <strong>Blazor</strong>,
+<strong>Flutter</strong> and modern web technologies.
 </p>
 
 <a href="https://abhishekvermarj.github.io/">
@@ -32,11 +30,8 @@
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-```yaml
 name: Abhishek Verma
 role: Assistant Engineer - Product Development
 company: EduBuddy
@@ -51,156 +46,162 @@ primary_focus:
 currently_exploring:
   - Flutter
   - Firebase
-  - Cloud Technologies
+  - Azure and Cloud Technologies
 portfolio: abhishekvermarj.github.io
-```
 
 I am a Computer Science Engineer and software developer focused on creating reliable, secure and impactful digital products.
 
-At **EduBuddy**, I contribute to product development using **C#**, **.NET** and **Blazor**, while also working on product testing, debugging, performance improvements and user-interface enhancements.
+At EduBuddy, I contribute to product development using C#, .NET and Blazor, while also working on testing, debugging, performance improvements and UI enhancements.
 
-I enjoy converting ideas and real-world requirements into maintainable applications with clean architecture and thoughtful user experiences.
+🔭 Building and improving full-stack applications
 
-* 🔭 Currently building and improving full-stack applications
-* 🌱 Strengthening my skills in Flutter, ASP.NET, Blazor and cloud technologies
-* 🔐 Interested in authentication, application security and scalable backend systems
-* 🤝 Open to collaborating on useful open-source and full-stack projects
-* 💬 Ask me about C#, .NET, Blazor, Flutter, HTML, CSS or JavaScript
-* 📫 Reach me at **[abhishekverma.rjasv@gmail.com](mailto:abhishekverma.rjasv@gmail.com)**
-* ⚡ I believe great software should be useful, secure and easy to understand
+🌱 Strengthening Flutter, ASP.NET, Blazor and cloud skills
 
----
+🔐 Interested in authentication, application security and scalable backend systems
 
-## 🧭 What I Do
+🤝 Open to useful open-source and full-stack collaborations
+
+💬 Ask me about C#, .NET, Blazor, Flutter, HTML, CSS or JavaScript
+
+📫 Reach me at abhishekverma.rjasv@gmail.com
+
+🧭 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Development
+🌐 Full-Stack Development
 
-I create responsive web applications, reusable interfaces and maintainable backend functionality using modern development practices.
+Responsive web applications, reusable interfaces and maintainable backend functionality using modern development practices.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ .NET & Blazor Development
+⚙️ .NET & Blazor Development
 
-I build and maintain applications using C#, ASP.NET and Blazor, with a focus on performance, usability and clean code.
+C#, ASP.NET and Blazor applications focused on performance, usability, security and clean code.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Cross-Platform Applications
+📱 Cross-Platform Applications
 
-I am developing my Flutter skills to create consistent mobile experiences across multiple platforms.
+Flutter-based mobile experiences designed to work consistently across multiple platforms.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Secure Systems
+🔐 Secure Systems
 
-I am interested in authentication flows, authorization, data protection and secure application architecture.
+Authentication flows, authorization, data protection and secure application architecture.
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Technology Stack
+🛠️ Technology Stack
 
 <div align="center">
 
-### Languages
+Languages
 
 <img src="https://skillicons.dev/icons?i=cs,dart,js,python,c,cpp,html,css&perline=8" alt="Programming languages"/>
 
-### Frameworks & Development
+Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,php&perline=8" alt="Frameworks"/>
 
-### Databases & Cloud
+Databases & Cloud
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,azure&perline=8" alt="Databases and cloud"/>
 
-### Tools & Platforms
+Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,bash&perline=8" alt="Tools and platforms"/>
 
 </div>
 
----
-
-## 🚀 Selected Work
+🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 FixMate
+🔧 FixMate
 
 A team-built, full-stack vehicle-repair service platform designed to connect vehicle owners with repair professionals.
 
-**Highlights**
+Highlights
 
-* Full-stack platform
-* Service-focused workflow
-* Team-based development
-* Real-world problem solving
+Full-stack platform
+
+Service-focused workflow
+
+Team-based development
+
+Real-world problem solving
 
 <a href="https://abhishekvermarj.github.io/#projects">View Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 QR Code Banalo
+📱 QR Code Banalo
 
 A lightweight browser-based utility that enables users to create QR codes through a simple and accessible interface.
 
-**Technologies**
+Technologies
 
-* HTML
-* CSS
-* JavaScript
-* Responsive UI
+HTML
+
+CSS
+
+JavaScript
+
+Responsive UI
 
 <a href="https://abhishekvermarj.github.io/#projects">View Project</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 Math Learning Site
+🧮 Math Learning Site
 
 An interactive educational website containing tools and resources designed to make mathematics easier to explore.
 
-**Technologies**
+Technologies
 
-* HTML
-* JavaScript
-* Interactive web components
-* Educational UI
+HTML
+
+JavaScript
+
+Interactive web components
+
+Educational UI
 
 <a href="https://abhishekvermarj.github.io/#projects">View Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Browser & Desktop Games
+🎮 Browser & Desktop Games
 
 A collection of projects including Binary Tic-Tac-Toe, Air Hockey and Python Tkinter-based educational games.
 
-**Technologies**
+Technologies
 
-* JavaScript
-* HTML5 Canvas
-* Python
-* Tkinter
+JavaScript
+
+HTML5 Canvas
+
+Python
+
+Tkinter
 
 <a href="https://abhishekvermarj.github.io/#projects">View Projects</a>
 
@@ -220,122 +221,96 @@ A collection of projects including Binary Tic-Tac-Toe, Air Hockey and Python Tki
 
 </div>
 
----
+💼 Experience
 
-## 💼 Experience
+Assistant Engineer — Product Development
 
-### Assistant Engineer — Product Development
+Polar Bear Inc. (EduBuddy)November 2024 – Present
 
-**Polar Bear Inc. (EduBuddy)**
-**November 2024 – Present**
+Develop and maintain product functionality using C#, .NET and Blazor
 
-* Develop and maintain product functionality using C#, .NET and Blazor
-* Test application modules and identify issues before deployment
-* Debug software problems and support application stability
-* Contribute to UI and UX improvements
-* Assist users with product-related technical queries
-* Help improve application performance and maintainability
+Test application modules and identify issues before deployment
 
-### Frontend Developer
+Debug software problems and support application stability
 
-**Shuchit Infotek — Remote**
-**August 2024 – October 2024**
+Contribute to UI and UX improvements
 
-* Developed responsive interfaces using HTML, CSS and JavaScript
-* Integrated frontend components with PHP-based functionality
-* Improved cross-device and cross-browser compatibility
-* Created reusable and maintainable UI components
+Assist users with product-related technical queries
 
-### SEO Executive Trainee
+Help improve application performance and maintainability
 
-**K2 Technologies**
-**February 2024 – March 2024**
+Frontend Developer
 
-* Worked on on-page, off-page and technical SEO
-* Performed keyword research and website audits
-* Analysed crawl issues, broken links and mobile usability
-* Used tools including Google Search Console and Google Analytics
+Shuchit Infotek — RemoteAugust 2024 – October 2024
 
----
+Developed responsive interfaces using HTML, CSS and JavaScript
 
-## 🎯 Current Focus
+Integrated frontend components with PHP-based functionality
 
-```text
+Improved cross-device and cross-browser compatibility
+
+Created reusable and maintainable UI components
+
+SEO Executive Trainee
+
+K2 TechnologiesFebruary 2024 – March 2024
+
+Worked on on-page, off-page and technical SEO
+
+Performed keyword research and website audits
+
+Analysed crawl issues, broken links and mobile usability
+
+Used Google Search Console and Google Analytics
+
+🎯 Current Focus
+
 01. Building maintainable applications with C# and .NET
 02. Developing interactive interfaces using Blazor
 03. Improving cross-platform development skills with Flutter
 04. Understanding secure authentication and authorization
 05. Exploring Firebase, Azure and scalable backend architecture
 06. Contributing consistently to open-source projects
-```
 
----
-
-## 📊 Live GitHub Analytics
+📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Abhishek's GitHub statistics"/>
+<a href="https://github.com/Abhishekvermarj">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Abhishekvermarj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Most used languages"/>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/Abhishekvermarj">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekvermarj&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Public%20Contribution%20Activity" alt="Recent public contribution activity"/>
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Abhishekvermarj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak"/>
+<br/><br/>
 
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekvermarj&theme=tokyo-night&hide_border=true&area=true&custom_title=Abhishek's%20Contribution%20Activity" alt="GitHub activity graph"/>
-
-</div>
-
-> The statistics above are generated dynamically from public GitHub activity. Private contributions may not appear unless private contribution visibility is enabled in GitHub settings.
-
----
-
-## 📈 Profile Summary
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekvermarj&theme=tokyonight" alt="GitHub profile details"/>
-
-<br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvermarj&theme=tokyonight" alt="Repositories per language"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvermarj&theme=tokyonight" alt="Most committed language"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvermarj&theme=tokyonight" alt="GitHub statistics summary"/>
+<a href="https://github.com/Abhishekvermarj">
+  <img src="https://img.shields.io/badge/Open-Live%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open live GitHub profile"/>
+</a>
 
 </div>
 
----
+GitHub and third-party cards can take time to refresh. A qualifying commit must use an email connected to your GitHub account and must reach the repository's default or gh-pages branch.
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Abhishekvermarj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
----
+The snake appears after the Generate Contribution Snake workflow runs successfully and creates the output branch.
 
-## 🌐 Explore My Portfolio
+🌐 Explore My Portfolio
 
 <div align="center">
 
@@ -349,9 +324,7 @@ My portfolio contains more information about my professional experience, technic
 
 </div>
 
----
-
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
@@ -369,17 +342,59 @@ My portfolio contains more information about my professional experience, technic
 
 </div>
 
----
+<details>
+<summary><strong>Snake animation setup code</strong></summary>
+
+GitHub README files cannot execute GitHub Actions. The snake image above is already included in this README, but GitHub requires the following workflow to generate and refresh its SVG files. Copy this block into <code>.github/workflows/snake.yml</code> once.
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+</details>
 
 <div align="center">
 
-### 💡 Development Philosophy
+💡 Development Philosophy
 
-> “Code is not only about solving problems—it is about creating experiences that are reliable, useful and meaningful.”
+“Code is not only about solving problems—it is about creating experiences that are reliable, useful and meaningful.”
 
 <br/>
 
-⭐ Explore my repositories and consider following me to stay updated with my latest work.
+⭐ Explore my repositories and follow my profile to stay updated with my latest work.
 
 <br/>
 
