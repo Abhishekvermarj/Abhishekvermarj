@@ -1,403 +1,305 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 
-Hi 👋, I'm Abhishek Verma
+<h3 align="center">
+🚀 Assistant Engineer @ EduBuddy | 💻 Full-Stack Developer | 🌱 Tech Explorer
+</h3>
 
-Assistant Engineer @ EduBuddy • Full-Stack Developer • .NET & Blazor Developer
+<p align="center">
+  <a href="https://abhishekvermarj.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-0A66C2?style=for-the-badge" />
+  </a>
 
-<p>
-I build secure, scalable and user-focused applications using
-<strong>C#</strong>, <strong>ASP.NET</strong>, <strong>Blazor</strong>,
-<strong>Flutter</strong> and modern web technologies.
+  <a href="mailto:abhishekverma.rjasv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Abhishekvermarj">
+    <img src="https://img.shields.io/github/followers/Abhishekvermarj?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<a href="https://abhishekvermarj.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:abhishekverma.rjasv@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Abhishekvermarj?tab=followers">
-  <img src="https://img.shields.io/github/followers/Abhishekvermarj?style=for-the-badge&logo=github&label=Follow" alt="GitHub followers"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekvermarj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/Abhishekvermarj">
+    <img src="https://img.shields.io/github/followers/Abhishekvermarj?label=Followers&style=social" />
+  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+Developer;ASP.NET+Developer;Blazor+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Abhishekvermarj&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+---
 
-<br/><br/>
+# 💫 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00B8D9&center=true&vCenter=true&width=760&lines=C%23+%26+.NET+Developer;Building+Applications+with+Blazor;Full-Stack+Web+Developer;Flutter+%26+Cross-Platform+Explorer;Focused+on+Secure+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing animation"/>
+💻 Passionate **Computer Science Engineer** focused on building secure, scalable, and impactful digital solutions.
+```yaml
+Name: Abhishek Verma
+Role: Assistant Engineer @ EduBuddy
+Location: India 🇮🇳
+Focus: Full-Stack Development & Secure Systems
+Learning: Flutter • ASP.NET • Blazor
+Portfolio: abhishekvermarj.github.io
+```
 
-</div>
+💻 Passionate Computer Science Engineer focused on building scalable, secure, and impactful digital products.
 
-👨‍💻 About Me
+🚀 I enjoy transforming ideas into real-world applications using modern technologies and clean architecture.
 
-name: Abhishek Verma
-role: Assistant Engineer - Product Development
-company: EduBuddy
-location: India
-education: B.Tech in Computer Science and Engineering
-experience: 1+ year
-primary_focus:
-  - C# and .NET Development
-  - ASP.NET and Blazor Applications
-  - Full-Stack Web Development
-  - Secure and Scalable Systems
-currently_exploring:
-  - Flutter
-  - Firebase
-  - Azure and Cloud Technologies
-portfolio: abhishekvermarj.github.io
+🧠 Strong interest in:
+- Full-Stack Development
+- Mobile Applications
+- Secure Authentication Systems
+- Scalable Backend Architectures
+- Clean UI/UX Experiences
 
-I am a Computer Science Engineer and software developer focused on creating reliable, secure and impactful digital products.
+⚡ What I Believe In:
+- Clean & Maintainable Code
+- Secure Digital Ecosystems
+- Continuous Learning
+- Building Technology That Matters
 
-At EduBuddy, I contribute to product development using C#, .NET and Blazor, while also working on testing, debugging, performance improvements and UI enhancements.
+---
 
-🔭 Building and improving full-stack applications
+# 🌐 Portfolio
 
-🌱 Strengthening Flutter, ASP.NET, Blazor and cloud skills
-
-🔐 Interested in authentication, application security and scalable backend systems
-
-🤝 Open to useful open-source and full-stack collaborations
-
-💬 Ask me about C#, .NET, Blazor, Flutter, HTML, CSS or JavaScript
-
-📫 Reach me at abhishekverma.rjasv@gmail.com
-
-🧭 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🌐 Full-Stack Development
-
-Responsive web applications, reusable interfaces and maintainable backend functionality using modern development practices.
-
-</td>
-<td width="50%" valign="top">
-
-⚙️ .NET & Blazor Development
-
-C#, ASP.NET and Blazor applications focused on performance, usability, security and clean code.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-📱 Cross-Platform Applications
-
-Flutter-based mobile experiences designed to work consistently across multiple platforms.
-
-</td>
-<td width="50%" valign="top">
-
-🔐 Secure Systems
-
-Authentication flows, authorization, data protection and secure application architecture.
-
-</td>
-</tr>
-</table>
-
-🛠️ Technology Stack
+<p align="center">
+  <a href="https://abhishekvermarj.github.io/">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
 
-Languages
+✨ Modern UI Experience  
+✨ Projects Showcase  
+✨ Technical Skills  
+✨ Developer Journey  
+✨ Responsive Design  
 
-<img src="https://skillicons.dev/icons?i=cs,dart,js,python,c,cpp,html,css&perline=8" alt="Programming languages"/>
-
-Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,php&perline=8" alt="Frameworks"/>
-
-Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,azure&perline=8" alt="Databases and cloud"/>
-
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,bash&perline=8" alt="Tools and platforms"/>
-
+- 🔭 Currently working as **Assistant Engineer @ EduBuddy**
+- 🌱 Learning **Flutter, ASP.NET & Blazor**
+- ⚡ Interested in **Full-Stack Development & Secure Systems**
+- 🧠 Love solving real-world problems through code
+- 🤝 Open to collaboration & impactful products
 </div>
 
-🚀 Selected Work
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🔧 FixMate
-
-A team-built, full-stack vehicle-repair service platform designed to connect vehicle owners with repair professionals.
-
-Highlights
-
-Full-stack platform
-
-Service-focused workflow
-
-Team-based development
-
-Real-world problem solving
-
-<a href="https://abhishekvermarj.github.io/#projects">View Project</a>
-
-</td>
-<td width="50%" valign="top">
-
-📱 QR Code Banalo
-
-A lightweight browser-based utility that enables users to create QR codes through a simple and accessible interface.
-
-Technologies
-
-HTML
-
-CSS
-
-JavaScript
-
-Responsive UI
-
-<a href="https://abhishekvermarj.github.io/#projects">View Project</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🧮 Math Learning Site
-
-An interactive educational website containing tools and resources designed to make mathematics easier to explore.
-
-Technologies
-
-HTML
-
-JavaScript
-
-Interactive web components
-
-Educational UI
-
-<a href="https://abhishekvermarj.github.io/#projects">View Project</a>
-
-</td>
-<td width="50%" valign="top">
-
-🎮 Browser & Desktop Games
-
-A collection of projects including Binary Tic-Tac-Toe, Air Hockey and Python Tkinter-based educational games.
-
-Technologies
-
-JavaScript
-
-HTML5 Canvas
-
-Python
-
-Tkinter
-
-<a href="https://abhishekvermarj.github.io/#projects">View Projects</a>
-
-</td>
-</tr>
-</table>
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/Abhishekvermarj?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
+## 👨‍💻 Languages
 
-<a href="https://abhishekvermarj.github.io/#projects">
-  <img src="https://img.shields.io/badge/View-Portfolio%20Projects-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio projects"/>
-</a>
+<p>
+@@ -42,86 +94,165 @@
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,git,github,vscode,linux" />
+</p>
+
+## 🧠 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,bootstrap" />
+</p>
 
 </div>
 
-💼 Experience
+---
 
-Assistant Engineer — Product Development
+# 🚀 Featured Projects
 
-Polar Bear Inc. (EduBuddy)November 2024 – Present
+🔹 Explore all repositories here:
+<div align="center">
 
-Develop and maintain product functionality using C#, .NET and Blazor
+<p>
+| Project Type | Description |
+|---|---|
+| 🔐 Secure Systems | Authentication & security-focused applications |
+| 📱 Flutter Apps | Cross-platform mobile applications |
+| 🌐 Full-Stack Apps | Modern scalable web applications |
+| ⚡ Utility Tools | Productivity & automation tools |
 
-Test application modules and identify issues before deployment
+</div>
 
-Debug software problems and support application stability
+<p align="center">
+  <a href="https://github.com/Abhishekvermarj?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-Contribute to UI and UX improvements
+---
 
-Assist users with product-related technical queries
+# 📊 GitHub Analytics
 
-Help improve application performance and maintainability
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekvermarj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+<div align="center">
 
-Frontend Developer
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-Shuchit Infotek — RemoteAugust 2024 – October 2024
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhishekvermarj&theme=tokyonight&hide_border=true" />
+</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Developed responsive interfaces using HTML, CSS and JavaScript
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekvermarj&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+</div>
 
-Integrated frontend components with PHP-based functionality
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekvermarj&theme=tokyonight" />
+</p>
+<div align="center">
 
-Improved cross-device and cross-browser compatibility
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvermarj&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvermarj&theme=tokyonight" />
+</p>
+<img src="https://streak-stats.demolab.com?user=Abhishekvermarj&theme=tokyonight&hide_border=true"/>
 
-Created reusable and maintainable UI components
-
-SEO Executive Trainee
-
-K2 TechnologiesFebruary 2024 – March 2024
-
-Worked on on-page, off-page and technical SEO
-
-Performed keyword research and website audits
-
-Analysed crawl issues, broken links and mobile usability
-
-Used Google Search Console and Google Analytics
-
-🎯 Current Focus
-
-01. Building maintainable applications with C# and .NET
-02. Developing interactive interfaces using Blazor
-03. Improving cross-platform development skills with Flutter
-04. Understanding secure authentication and authorization
-05. Exploring Firebase, Azure and scalable backend architecture
-06. Contributing consistently to open-source projects
-
-📊 GitHub Activity
+</div>
 
 <div align="center">
 
-<a href="https://github.com/Abhishekvermarj">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Abhishekvermarj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Abhishekvermarj">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekvermarj&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Public%20Contribution%20Activity" alt="Recent public contribution activity"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Abhishekvermarj">
-  <img src="https://img.shields.io/badge/Open-Live%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open live GitHub profile"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekvermarj&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
-GitHub and third-party cards can take time to refresh. A qualifying commit must use an email connected to your GitHub account and must reach the repository's default or gh-pages branch.
+---
 
-🐍 Contribution Snake
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Abhishekvermarj/Abhishekvermarj/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishekvermarj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
-The snake appears after the Generate Contribution Snake workflow runs successfully and creates the output branch.
+---
 
-🌐 Explore My Portfolio
+# 📈 Contribution Details
 
 <div align="center">
 
-My portfolio contains more information about my professional experience, technical skills, education and projects.
-
-<br/><br/>
-
-<a href="https://abhishekvermarj.github.io/">
-  <img src="https://img.shields.io/badge/Open-Developer%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekvermarj&theme=tokyonight"/>
 
 </div>
 
-🤝 Connect With Me
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvermarj&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvermarj&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvermarj&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvermarj&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvermarj&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvermarj&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://ghchart.rshah.org/00FFFF/Abhishekvermarj" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+# 📌 Current Focus
+
+<p align="left">
+  <a href="mailto:abhishekverma.rjasv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+```text
+🔹 Building Scalable Full-Stack Applications
+🔹 Improving Flutter Development Skills
+🔹 Exploring ASP.NET & Blazor
+🔹 Learning Secure Backend Architectures
+🔹 Contributing More to Open Source
+```
+
+  <a href="https://github.com/Abhishekvermarj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+---
+
+# 🌍 Connect With Me
 
 <div align="center">
 
 <a href="mailto:abhishekverma.rjasv@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Abhishek%20Verma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Abhishekvermarj">
-  <img src="https://img.shields.io/badge/GitHub-Abhishekvermarj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://abhishekvermarj.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Online-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
 </div>
 
-<details>
-<summary><strong>Snake animation setup code</strong></summary>
+---
 
-GitHub README files cannot execute GitHub Actions. The snake image above is already included in this README, but GitHub requires the following workflow to generate and refresh its SVG files. Copy this block into <code>.github/workflows/snake.yml</code> once.
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-</details>
+# ⚡ Fun Fact
 
 <div align="center">
 
-💡 Development Philosophy
+💡 "Code is not just about solving problems — it's about building experiences that matter."
 
-“Code is not only about solving problems—it is about creating experiences that are reliable, useful and meaningful.”
-
-<br/>
-
-⭐ Explore my repositories and follow my profile to stay updated with my latest work.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer"/>
+🚀 Always learning, building, and improving.
 
 </div>
+
+---
+
+# ✨ Quote
+# ❤️ Support
+
+<p align="center">
+  <b>"Code is not just about solving problems — it's about building experiences that matter."</b>
+  ⭐ If you like my work, consider following my profile and checking out my repositories.
+</p>
+
+<p align="center">
+  🚀 Always learning, building, and improving.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
