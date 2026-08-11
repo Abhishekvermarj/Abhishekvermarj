@@ -8,18 +8,16 @@
   <a href="https://abhishekvermarj.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge" alt="Portfolio" />
   </a>
-  &nbsp;
   <a href="mailto:abhishekverma.rjasv@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://github.com/Abhishekvermarj">
     <img src="https://img.shields.io/github/followers/Abhishekvermarj?style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishekvermarj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishekvermarj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
@@ -39,7 +37,7 @@ Portfolio: abhishekvermarj.github.io
 
 🚀 I enjoy transforming ideas into real-world applications using modern technologies and clean architecture.
 
-🧠 Strong interest in
+🧠 Strong interest in:
 
 Full-Stack Development
 
@@ -51,7 +49,7 @@ Scalable Backend Architectures
 
 Clean UI/UX Experiences
 
-⚡ What I Believe In
+⚡ What I Believe In:
 
 Clean & Maintainable Code
 
@@ -70,28 +68,28 @@ Building Technology That Matters
 </p>
 
 <p align="center">
-  ✨ Modern UI Experience &nbsp; • &nbsp;
-  ✨ Projects Showcase &nbsp; • &nbsp;
-  ✨ Technical Skills &nbsp; • &nbsp;
-  ✨ Developer Journey &nbsp; • &nbsp;
-  ✨ Responsive Design
+✨ Modern UI Experience &nbsp; • &nbsp;
+✨ Projects Showcase &nbsp; • &nbsp;
+✨ Technical Skills &nbsp; • &nbsp;
+✨ Developer Journey &nbsp; • &nbsp;
+✨ Responsive Design
 </p>
 
 🛠️ Tech Stack
 
-<h3 align="center">👨‍💻 Languages</h3>
+<h2 align="center">👨‍💻 Languages</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,js,python,c,html,css" alt="Languages" />
 </p>
 
-<h3 align="center">⚙️ Frameworks & Tools</h3>
+<h2 align="center">⚙️ Frameworks & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dotnet,git,github,vscode,linux" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,git,github,vscode,linux" alt="Frameworks & Tools" />
 </p>
 
-<h3 align="center">🧠 Currently Exploring</h3>
+<h2 align="center">🧠 Currently Exploring</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,mysql,bootstrap" alt="Currently Exploring" />
@@ -128,12 +126,12 @@ Productivity & automation tools
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Abhishekvermarj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhishekvermarj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvermarj&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvermarj&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishekvermarj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abhishekvermarj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -153,13 +151,13 @@ Productivity & automation tools
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvermarj&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvermarj&theme=tokyonight" alt="Most Commit Language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvermarj&theme=tokyonight" alt="Repos per Language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvermarj&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvermarj&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvermarj&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvermarj&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvermarj&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 🔥 Contribution Graph
@@ -188,11 +186,9 @@ Productivity & automation tools
   <a href="mailto:abhishekverma.rjasv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
   <a href="https://github.com/Abhishekvermarj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
   <a href="https://abhishekvermarj.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
@@ -201,11 +197,11 @@ Productivity & automation tools
 ⚡ Fun Fact
 
 <p align="center">
-  💡 <b>"Code is not just about solving problems — it's about building experiences that matter."</b>
+💡 "Code is not just about solving problems — it's about building experiences that matter."
 </p>
 
 <p align="center">
-  🚀 Always learning, building, and improving.
+🚀 Always learning, building, and improving.
 </p>
 
 ❤️ Support
